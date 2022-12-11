@@ -1,0 +1,1 @@
+Incluyo el proyecto de RapidMinner y el script de limpieza de datos.
